@@ -33,3 +33,8 @@ in your IDE’s toolbar or open the [/iosApp](./iosApp) directory in Xcode and r
 ---
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+
+Project Setup Video
+
+[Watch Video](assets/Setup%20and%20run%20KMP%20project%20for%20Android%20and%20iOS%20-%201080p%20-%20latest.mov)
